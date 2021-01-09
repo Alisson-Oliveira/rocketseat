@@ -1,0 +1,1 @@
+Este repositório é direcionado para cursos e eventos da rocketseat.
