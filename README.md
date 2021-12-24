@@ -9,6 +9,7 @@
 - semana-omnistack-11
 - next-level-week-2
 - next-level-week-3
+- next-level-week-heat
 
 ### Vídeos
 - Socket.io
