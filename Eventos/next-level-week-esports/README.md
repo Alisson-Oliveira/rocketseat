@@ -1,6 +1,6 @@
-# Do while
+# eSports
 
-Uma aplicação feita para envio de mensagens, com autenticação do github.
+Uma aplicação completa feita para conexões de duo em jogos.
 
 # Backend
 
@@ -8,20 +8,17 @@ Uma aplicação feita para envio de mensagens, com autenticação do github.
 - Prisma
 - SQLite
 - Typescript
-- socket.io
 
 # Frontend
 
 - Typescript
 - React
-- Sass
+- Tailwind
 - Vite
 
 # Mobile
 
-- Contexto
 - Typescript
 - React Native
 - Expo
-- Moti
-- Async Storage
+- Notificações
