@@ -1,4 +1,4 @@
-# Repositório direcionado para cursos e eventos da rocketseat
+# Repositório direcionado para cursos, videos e eventos da rocketseat
 
 ### Cursos
 
@@ -13,6 +13,7 @@
 - next-level-week-3
 - next-level-week-heat
 - next-level-week-eSports
+- next-level-week-IA
 
 ### Vídeos
 
