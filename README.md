@@ -5,6 +5,7 @@
 - Javascript
 - Javascript ES6
 - ReactJS
+- Introdução a Python e Flask
 
 ### Eventos
 
